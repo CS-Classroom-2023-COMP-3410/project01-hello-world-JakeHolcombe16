@@ -18,7 +18,7 @@ Hello GitHub Classroom
     - Somewhere inside the HTML there is a tag that contains a hidden key.
     - The key is not actually visible on the page, but you should be able to find it just by looking at the HTML.
     - Create a file in this repository called `hidden-key.md` and inside of it copy/paste the entire tag that you find. (i.e. the entire line that looks like `<div ... > ... </div>`).
----
+--- 
 
 **Submission Instructions**:
 
